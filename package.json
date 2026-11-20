@@ -27,7 +27,7 @@
   "homepage": "https://github.com/learn-co-curriculum/javascript-logging-lab#readme",
   "devDependencies": {
     "expect": "^1.20.1",
-    "jsdom": "^9.2.1",
+    "jsdom": "^31.0.1",
     "mocha": "^12.0.3",
     "mocha-jsdom": "^1.1.0",
     "mocha-multi": "^1.1.7"
